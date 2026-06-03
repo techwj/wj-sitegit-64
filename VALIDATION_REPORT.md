@@ -1,0 +1,88 @@
+# Validation Report - museum-day-trip
+
+Generated: 2026-06-02T19:22:18.474158
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Museum Day Trip
+- ✓ Article word count OK: Beginner Museum Day Trip: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Museum Day Trip
+- ✓ Article word count OK: Beginner Museum Day Trip Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Museum Day Trip
+- ✓ Article word count OK: Beginner Museum Day Trip in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Museum Day Trip
+- ✓ Article word count OK: Common Mistakes in Beginner Museum Day Trip
+- ✓ Article word count OK: Beginner Museum Day Trip for Beginners
+- ✓ Article word count OK: Advanced Beginner Museum Day Trip Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Museum Day Trip
+- ✓ Article word count OK: Advanced Museum Day Trip: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Museum Day Trip
+- ✓ Article word count OK: Advanced Museum Day Trip Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Museum Day Trip
+- ✓ Article word count OK: Advanced Museum Day Trip in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Museum Day Trip
+- ✓ Article word count OK: Common Mistakes in Advanced Museum Day Trip
+- ✓ Article word count OK: Advanced Museum Day Trip for Beginners
+- ✓ Article word count OK: Advanced Advanced Museum Day Trip Techniques
+- ✓ Article word count OK: The Ultimate Guide to Museum Day Trip Tips
+- ✓ Article word count OK: Museum Day Trip Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Museum Day Trip Tips
+- ✓ Article word count OK: Museum Day Trip Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Museum Day Trip Tips
+- ✓ Article word count OK: Museum Day Trip Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Museum Day Trip Tips
+- ✓ Article word count OK: Common Mistakes in Museum Day Trip Tips
+- ✓ Article word count OK: Museum Day Trip Tips for Beginners
+- ✓ Article word count OK: Advanced Museum Day Trip Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Museum Day Trip History
+- ✓ Article word count OK: Museum Day Trip History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Museum Day Trip History
+- ✓ Article word count OK: Museum Day Trip History Tips and Best Practices
+- ✓ Article word count OK: The History of Museum Day Trip History
+- ✓ Article word count OK: Museum Day Trip History in 2026: Current Trends
+- ✓ Article word count OK: Future of Museum Day Trip History
+- ✓ Article word count OK: Common Mistakes in Museum Day Trip History
+- ✓ Article word count OK: Museum Day Trip History for Beginners
+- ✓ Article word count OK: Advanced Museum Day Trip History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Museum Day Trip
+- ✓ Article word count OK: Trending Museum Day Trip: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Museum Day Trip
+- ✓ Article word count OK: Trending Museum Day Trip Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Museum Day Trip
+- ✓ Article word count OK: Trending Museum Day Trip in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Museum Day Trip
+- ✓ Article word count OK: Common Mistakes in Trending Museum Day Trip
+- ✓ Article word count OK: Trending Museum Day Trip for Beginners
+- ✓ Article word count OK: Advanced Trending Museum Day Trip Techniques
+- ✓ Article word count OK: The Ultimate Guide to Museum Day Trip Tutorials
+- ✓ Article word count OK: Museum Day Trip Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Museum Day Trip Tutorials
+- ✓ Article word count OK: Museum Day Trip Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Museum Day Trip Tutorials
+- ✓ Article word count OK: Museum Day Trip Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Museum Day Trip Tutorials
+- ✓ Article word count OK: Common Mistakes in Museum Day Trip Tutorials
+- ✓ Article word count OK: Museum Day Trip Tutorials for Beginners
+- ✓ Article word count OK: Advanced Museum Day Trip Tutorials Techniques
+- ✓ Ad configuration validated

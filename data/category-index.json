@@ -1,0 +1,794 @@
+{
+  "beginner-museum-day-trip": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-museum-day-trip",
+      "title": "The Ultimate Guide to Beginner Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.422077",
+      "image": {
+        "id": "2749743b7c34666c9077845c96fb6c4956ebd419f3beeb96bc723aaaa0d09596",
+        "url": "https://picsum.photos/1038/427?random=731",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Museum Day Trip",
+        "width": 1038,
+        "height": 427
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-museum-day-trip-everything-you-need-to-know",
+      "title": "Beginner Museum Day Trip: Everything You Need to Know",
+      "created_at": "2026-06-02T19:22:18.422141",
+      "image": {
+        "id": "d3996e5d4cab7df7e743665b5212fb58b9d9bffe4c243ad4958e9163a2fdbd94",
+        "url": "https://picsum.photos/878/509?random=634",
+        "alt": "Featured image for: Beginner Museum Day Trip: Everything You Need to Know",
+        "width": 878,
+        "height": 509
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-museum-day-trip",
+      "title": "Understanding Beginner Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.422178",
+      "image": {
+        "id": "685e05ae03c06c53b4d01dd547cb19cb8c9728550d775815f3f220e1564bcf3e",
+        "url": "https://picsum.photos/1199/432?random=876",
+        "alt": "Featured image for: Understanding Beginner Museum Day Trip",
+        "width": 1199,
+        "height": 432
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-museum-day-trip-tips-and-best-practices",
+      "title": "Beginner Museum Day Trip Tips and Best Practices",
+      "created_at": "2026-06-02T19:22:18.422213",
+      "image": {
+        "id": "ab4c6608d38829361307d4cfef3f968a10e67278d30a09c918f6367fe60d4823",
+        "url": "https://picsum.photos/1162/548?random=893",
+        "alt": "Featured image for: Beginner Museum Day Trip Tips and Best Practices",
+        "width": 1162,
+        "height": 548
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-museum-day-trip",
+      "title": "The History of Beginner Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.422250",
+      "image": {
+        "id": "c970128279a010f90466a4e4102aa5db92b7d1f24f9b37104a31ccae6364d301",
+        "url": "https://picsum.photos/839/427?random=636",
+        "alt": "Featured image for: The History of Beginner Museum Day Trip",
+        "width": 839,
+        "height": 427
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-museum-day-trip-in-2026-current-trends",
+      "title": "Beginner Museum Day Trip in 2026: Current Trends",
+      "created_at": "2026-06-02T19:22:18.422282",
+      "image": {
+        "id": "c970128279a010f90466a4e4102aa5db92b7d1f24f9b37104a31ccae6364d301",
+        "url": "https://picsum.photos/839/427?random=636",
+        "alt": "Featured image for: Beginner Museum Day Trip in 2026: Current Trends",
+        "width": 839,
+        "height": 427
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-museum-day-trip",
+      "title": "Future of Beginner Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.422313",
+      "image": {
+        "id": "d3996e5d4cab7df7e743665b5212fb58b9d9bffe4c243ad4958e9163a2fdbd94",
+        "url": "https://picsum.photos/878/509?random=634",
+        "alt": "Featured image for: Future of Beginner Museum Day Trip",
+        "width": 878,
+        "height": 509
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-museum-day-trip",
+      "title": "Common Mistakes in Beginner Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.422343",
+      "image": {
+        "id": "685e05ae03c06c53b4d01dd547cb19cb8c9728550d775815f3f220e1564bcf3e",
+        "url": "https://picsum.photos/1199/432?random=876",
+        "alt": "Featured image for: Common Mistakes in Beginner Museum Day Trip",
+        "width": 1199,
+        "height": 432
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-museum-day-trip-for-beginners",
+      "title": "Beginner Museum Day Trip for Beginners",
+      "created_at": "2026-06-02T19:22:18.422383",
+      "image": {
+        "id": "685e05ae03c06c53b4d01dd547cb19cb8c9728550d775815f3f220e1564bcf3e",
+        "url": "https://picsum.photos/1199/432?random=876",
+        "alt": "Featured image for: Beginner Museum Day Trip for Beginners",
+        "width": 1199,
+        "height": 432
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-museum-day-trip-techniques",
+      "title": "Advanced Beginner Museum Day Trip Techniques",
+      "created_at": "2026-06-02T19:22:18.422465",
+      "image": {
+        "id": "685e05ae03c06c53b4d01dd547cb19cb8c9728550d775815f3f220e1564bcf3e",
+        "url": "https://picsum.photos/1199/432?random=876",
+        "alt": "Featured image for: Advanced Beginner Museum Day Trip Techniques",
+        "width": 1199,
+        "height": 432
+      }
+    }
+  ],
+  "advanced-museum-day-trip": [
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-museum-day-trip",
+      "title": "The Ultimate Guide to Advanced Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.422844",
+      "image": {
+        "id": "2749743b7c34666c9077845c96fb6c4956ebd419f3beeb96bc723aaaa0d09596",
+        "url": "https://picsum.photos/1038/427?random=731",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Museum Day Trip",
+        "width": 1038,
+        "height": 427
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-museum-day-trip-everything-you-need-to-know",
+      "title": "Advanced Museum Day Trip: Everything You Need to Know",
+      "created_at": "2026-06-02T19:22:18.422871",
+      "image": {
+        "id": "ab4c6608d38829361307d4cfef3f968a10e67278d30a09c918f6367fe60d4823",
+        "url": "https://picsum.photos/1162/548?random=893",
+        "alt": "Featured image for: Advanced Museum Day Trip: Everything You Need to Know",
+        "width": 1162,
+        "height": 548
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-museum-day-trip",
+      "title": "Understanding Advanced Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.422902",
+      "image": {
+        "id": "2749743b7c34666c9077845c96fb6c4956ebd419f3beeb96bc723aaaa0d09596",
+        "url": "https://picsum.photos/1038/427?random=731",
+        "alt": "Featured image for: Understanding Advanced Museum Day Trip",
+        "width": 1038,
+        "height": 427
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-museum-day-trip-tips-and-best-practices",
+      "title": "Advanced Museum Day Trip Tips and Best Practices",
+      "created_at": "2026-06-02T19:22:18.422929",
+      "image": {
+        "id": "d3996e5d4cab7df7e743665b5212fb58b9d9bffe4c243ad4958e9163a2fdbd94",
+        "url": "https://picsum.photos/878/509?random=634",
+        "alt": "Featured image for: Advanced Museum Day Trip Tips and Best Practices",
+        "width": 878,
+        "height": 509
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-museum-day-trip",
+      "title": "The History of Advanced Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.422957",
+      "image": {
+        "id": "c970128279a010f90466a4e4102aa5db92b7d1f24f9b37104a31ccae6364d301",
+        "url": "https://picsum.photos/839/427?random=636",
+        "alt": "Featured image for: The History of Advanced Museum Day Trip",
+        "width": 839,
+        "height": 427
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-museum-day-trip-in-2026-current-trends",
+      "title": "Advanced Museum Day Trip in 2026: Current Trends",
+      "created_at": "2026-06-02T19:22:18.422984",
+      "image": {
+        "id": "685e05ae03c06c53b4d01dd547cb19cb8c9728550d775815f3f220e1564bcf3e",
+        "url": "https://picsum.photos/1199/432?random=876",
+        "alt": "Featured image for: Advanced Museum Day Trip in 2026: Current Trends",
+        "width": 1199,
+        "height": 432
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-museum-day-trip",
+      "title": "Future of Advanced Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.423013",
+      "image": {
+        "id": "d3996e5d4cab7df7e743665b5212fb58b9d9bffe4c243ad4958e9163a2fdbd94",
+        "url": "https://picsum.photos/878/509?random=634",
+        "alt": "Featured image for: Future of Advanced Museum Day Trip",
+        "width": 878,
+        "height": 509
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-museum-day-trip",
+      "title": "Common Mistakes in Advanced Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.423042",
+      "image": {
+        "id": "c970128279a010f90466a4e4102aa5db92b7d1f24f9b37104a31ccae6364d301",
+        "url": "https://picsum.photos/839/427?random=636",
+        "alt": "Featured image for: Common Mistakes in Advanced Museum Day Trip",
+        "width": 839,
+        "height": 427
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-museum-day-trip-for-beginners",
+      "title": "Advanced Museum Day Trip for Beginners",
+      "created_at": "2026-06-02T19:22:18.423072",
+      "image": {
+        "id": "2749743b7c34666c9077845c96fb6c4956ebd419f3beeb96bc723aaaa0d09596",
+        "url": "https://picsum.photos/1038/427?random=731",
+        "alt": "Featured image for: Advanced Museum Day Trip for Beginners",
+        "width": 1038,
+        "height": 427
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-museum-day-trip-techniques",
+      "title": "Advanced Advanced Museum Day Trip Techniques",
+      "created_at": "2026-06-02T19:22:18.423100",
+      "image": {
+        "id": "d3996e5d4cab7df7e743665b5212fb58b9d9bffe4c243ad4958e9163a2fdbd94",
+        "url": "https://picsum.photos/878/509?random=634",
+        "alt": "Featured image for: Advanced Advanced Museum Day Trip Techniques",
+        "width": 878,
+        "height": 509
+      }
+    }
+  ],
+  "tips-museum-day-trip": [
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-museum-day-trip-tips",
+      "title": "The Ultimate Guide to Museum Day Trip Tips",
+      "created_at": "2026-06-02T19:22:18.423346",
+      "image": {
+        "id": "685e05ae03c06c53b4d01dd547cb19cb8c9728550d775815f3f220e1564bcf3e",
+        "url": "https://picsum.photos/1199/432?random=876",
+        "alt": "Featured image for: The Ultimate Guide to Museum Day Trip Tips",
+        "width": 1199,
+        "height": 432
+      }
+    },
+    {
+      "id": 38,
+      "slug": "museum-day-trip-tips-everything-you-need-to-know",
+      "title": "Museum Day Trip Tips: Everything You Need to Know",
+      "created_at": "2026-06-02T19:22:18.423373",
+      "image": {
+        "id": "685e05ae03c06c53b4d01dd547cb19cb8c9728550d775815f3f220e1564bcf3e",
+        "url": "https://picsum.photos/1199/432?random=876",
+        "alt": "Featured image for: Museum Day Trip Tips: Everything You Need to Know",
+        "width": 1199,
+        "height": 432
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-museum-day-trip-tips",
+      "title": "Understanding Museum Day Trip Tips",
+      "created_at": "2026-06-02T19:22:18.423401",
+      "image": {
+        "id": "685e05ae03c06c53b4d01dd547cb19cb8c9728550d775815f3f220e1564bcf3e",
+        "url": "https://picsum.photos/1199/432?random=876",
+        "alt": "Featured image for: Understanding Museum Day Trip Tips",
+        "width": 1199,
+        "height": 432
+      }
+    },
+    {
+      "id": 40,
+      "slug": "museum-day-trip-tips-tips-and-best-practices",
+      "title": "Museum Day Trip Tips Tips and Best Practices",
+      "created_at": "2026-06-02T19:22:18.423428",
+      "image": {
+        "id": "ab4c6608d38829361307d4cfef3f968a10e67278d30a09c918f6367fe60d4823",
+        "url": "https://picsum.photos/1162/548?random=893",
+        "alt": "Featured image for: Museum Day Trip Tips Tips and Best Practices",
+        "width": 1162,
+        "height": 548
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-museum-day-trip-tips",
+      "title": "The History of Museum Day Trip Tips",
+      "created_at": "2026-06-02T19:22:18.423457",
+      "image": {
+        "id": "2749743b7c34666c9077845c96fb6c4956ebd419f3beeb96bc723aaaa0d09596",
+        "url": "https://picsum.photos/1038/427?random=731",
+        "alt": "Featured image for: The History of Museum Day Trip Tips",
+        "width": 1038,
+        "height": 427
+      }
+    },
+    {
+      "id": 42,
+      "slug": "museum-day-trip-tips-in-2026-current-trends",
+      "title": "Museum Day Trip Tips in 2026: Current Trends",
+      "created_at": "2026-06-02T19:22:18.423484",
+      "image": {
+        "id": "ab4c6608d38829361307d4cfef3f968a10e67278d30a09c918f6367fe60d4823",
+        "url": "https://picsum.photos/1162/548?random=893",
+        "alt": "Featured image for: Museum Day Trip Tips in 2026: Current Trends",
+        "width": 1162,
+        "height": 548
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-museum-day-trip-tips",
+      "title": "Future of Museum Day Trip Tips",
+      "created_at": "2026-06-02T19:22:18.423513",
+      "image": {
+        "id": "2749743b7c34666c9077845c96fb6c4956ebd419f3beeb96bc723aaaa0d09596",
+        "url": "https://picsum.photos/1038/427?random=731",
+        "alt": "Featured image for: Future of Museum Day Trip Tips",
+        "width": 1038,
+        "height": 427
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-museum-day-trip-tips",
+      "title": "Common Mistakes in Museum Day Trip Tips",
+      "created_at": "2026-06-02T19:22:18.423543",
+      "image": {
+        "id": "c970128279a010f90466a4e4102aa5db92b7d1f24f9b37104a31ccae6364d301",
+        "url": "https://picsum.photos/839/427?random=636",
+        "alt": "Featured image for: Common Mistakes in Museum Day Trip Tips",
+        "width": 839,
+        "height": 427
+      }
+    },
+    {
+      "id": 45,
+      "slug": "museum-day-trip-tips-for-beginners",
+      "title": "Museum Day Trip Tips for Beginners",
+      "created_at": "2026-06-02T19:22:18.423573",
+      "image": {
+        "id": "ab4c6608d38829361307d4cfef3f968a10e67278d30a09c918f6367fe60d4823",
+        "url": "https://picsum.photos/1162/548?random=893",
+        "alt": "Featured image for: Museum Day Trip Tips for Beginners",
+        "width": 1162,
+        "height": 548
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-museum-day-trip-tips-techniques",
+      "title": "Advanced Museum Day Trip Tips Techniques",
+      "created_at": "2026-06-02T19:22:18.423600",
+      "image": {
+        "id": "ab4c6608d38829361307d4cfef3f968a10e67278d30a09c918f6367fe60d4823",
+        "url": "https://picsum.photos/1162/548?random=893",
+        "alt": "Featured image for: Advanced Museum Day Trip Tips Techniques",
+        "width": 1162,
+        "height": 548
+      }
+    }
+  ],
+  "history-museum-day-trip": [
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-museum-day-trip-history",
+      "title": "The Ultimate Guide to Museum Day Trip History",
+      "created_at": "2026-06-02T19:22:18.423839",
+      "image": {
+        "id": "c970128279a010f90466a4e4102aa5db92b7d1f24f9b37104a31ccae6364d301",
+        "url": "https://picsum.photos/839/427?random=636",
+        "alt": "Featured image for: The Ultimate Guide to Museum Day Trip History",
+        "width": 839,
+        "height": 427
+      }
+    },
+    {
+      "id": 56,
+      "slug": "museum-day-trip-history-everything-you-need-to-know",
+      "title": "Museum Day Trip History: Everything You Need to Know",
+      "created_at": "2026-06-02T19:22:18.423866",
+      "image": {
+        "id": "2749743b7c34666c9077845c96fb6c4956ebd419f3beeb96bc723aaaa0d09596",
+        "url": "https://picsum.photos/1038/427?random=731",
+        "alt": "Featured image for: Museum Day Trip History: Everything You Need to Know",
+        "width": 1038,
+        "height": 427
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-museum-day-trip-history",
+      "title": "Understanding Museum Day Trip History",
+      "created_at": "2026-06-02T19:22:18.423895",
+      "image": {
+        "id": "c970128279a010f90466a4e4102aa5db92b7d1f24f9b37104a31ccae6364d301",
+        "url": "https://picsum.photos/839/427?random=636",
+        "alt": "Featured image for: Understanding Museum Day Trip History",
+        "width": 839,
+        "height": 427
+      }
+    },
+    {
+      "id": 58,
+      "slug": "museum-day-trip-history-tips-and-best-practices",
+      "title": "Museum Day Trip History Tips and Best Practices",
+      "created_at": "2026-06-02T19:22:18.423923",
+      "image": {
+        "id": "2749743b7c34666c9077845c96fb6c4956ebd419f3beeb96bc723aaaa0d09596",
+        "url": "https://picsum.photos/1038/427?random=731",
+        "alt": "Featured image for: Museum Day Trip History Tips and Best Practices",
+        "width": 1038,
+        "height": 427
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-museum-day-trip-history",
+      "title": "The History of Museum Day Trip History",
+      "created_at": "2026-06-02T19:22:18.423950",
+      "image": {
+        "id": "2749743b7c34666c9077845c96fb6c4956ebd419f3beeb96bc723aaaa0d09596",
+        "url": "https://picsum.photos/1038/427?random=731",
+        "alt": "Featured image for: The History of Museum Day Trip History",
+        "width": 1038,
+        "height": 427
+      }
+    },
+    {
+      "id": 60,
+      "slug": "museum-day-trip-history-in-2026-current-trends",
+      "title": "Museum Day Trip History in 2026: Current Trends",
+      "created_at": "2026-06-02T19:22:18.424000",
+      "image": {
+        "id": "2749743b7c34666c9077845c96fb6c4956ebd419f3beeb96bc723aaaa0d09596",
+        "url": "https://picsum.photos/1038/427?random=731",
+        "alt": "Featured image for: Museum Day Trip History in 2026: Current Trends",
+        "width": 1038,
+        "height": 427
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-museum-day-trip-history",
+      "title": "Future of Museum Day Trip History",
+      "created_at": "2026-06-02T19:22:18.424039",
+      "image": {
+        "id": "c970128279a010f90466a4e4102aa5db92b7d1f24f9b37104a31ccae6364d301",
+        "url": "https://picsum.photos/839/427?random=636",
+        "alt": "Featured image for: Future of Museum Day Trip History",
+        "width": 839,
+        "height": 427
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-museum-day-trip-history",
+      "title": "Common Mistakes in Museum Day Trip History",
+      "created_at": "2026-06-02T19:22:18.424070",
+      "image": {
+        "id": "ab4c6608d38829361307d4cfef3f968a10e67278d30a09c918f6367fe60d4823",
+        "url": "https://picsum.photos/1162/548?random=893",
+        "alt": "Featured image for: Common Mistakes in Museum Day Trip History",
+        "width": 1162,
+        "height": 548
+      }
+    },
+    {
+      "id": 63,
+      "slug": "museum-day-trip-history-for-beginners",
+      "title": "Museum Day Trip History for Beginners",
+      "created_at": "2026-06-02T19:22:18.424102",
+      "image": {
+        "id": "2749743b7c34666c9077845c96fb6c4956ebd419f3beeb96bc723aaaa0d09596",
+        "url": "https://picsum.photos/1038/427?random=731",
+        "alt": "Featured image for: Museum Day Trip History for Beginners",
+        "width": 1038,
+        "height": 427
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-museum-day-trip-history-techniques",
+      "title": "Advanced Museum Day Trip History Techniques",
+      "created_at": "2026-06-02T19:22:18.424134",
+      "image": {
+        "id": "ab4c6608d38829361307d4cfef3f968a10e67278d30a09c918f6367fe60d4823",
+        "url": "https://picsum.photos/1162/548?random=893",
+        "alt": "Featured image for: Advanced Museum Day Trip History Techniques",
+        "width": 1162,
+        "height": 548
+      }
+    }
+  ],
+  "trending-museum-day-trip": [
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-museum-day-trip",
+      "title": "The Ultimate Guide to Trending Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.424406",
+      "image": {
+        "id": "ab4c6608d38829361307d4cfef3f968a10e67278d30a09c918f6367fe60d4823",
+        "url": "https://picsum.photos/1162/548?random=893",
+        "alt": "Featured image for: The Ultimate Guide to Trending Museum Day Trip",
+        "width": 1162,
+        "height": 548
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-museum-day-trip-everything-you-need-to-know",
+      "title": "Trending Museum Day Trip: Everything You Need to Know",
+      "created_at": "2026-06-02T19:22:18.424436",
+      "image": {
+        "id": "d3996e5d4cab7df7e743665b5212fb58b9d9bffe4c243ad4958e9163a2fdbd94",
+        "url": "https://picsum.photos/878/509?random=634",
+        "alt": "Featured image for: Trending Museum Day Trip: Everything You Need to Know",
+        "width": 878,
+        "height": 509
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-museum-day-trip",
+      "title": "Understanding Trending Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.424466",
+      "image": {
+        "id": "c970128279a010f90466a4e4102aa5db92b7d1f24f9b37104a31ccae6364d301",
+        "url": "https://picsum.photos/839/427?random=636",
+        "alt": "Featured image for: Understanding Trending Museum Day Trip",
+        "width": 839,
+        "height": 427
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-museum-day-trip-tips-and-best-practices",
+      "title": "Trending Museum Day Trip Tips and Best Practices",
+      "created_at": "2026-06-02T19:22:18.424495",
+      "image": {
+        "id": "685e05ae03c06c53b4d01dd547cb19cb8c9728550d775815f3f220e1564bcf3e",
+        "url": "https://picsum.photos/1199/432?random=876",
+        "alt": "Featured image for: Trending Museum Day Trip Tips and Best Practices",
+        "width": 1199,
+        "height": 432
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-museum-day-trip",
+      "title": "The History of Trending Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.424527",
+      "image": {
+        "id": "2749743b7c34666c9077845c96fb6c4956ebd419f3beeb96bc723aaaa0d09596",
+        "url": "https://picsum.photos/1038/427?random=731",
+        "alt": "Featured image for: The History of Trending Museum Day Trip",
+        "width": 1038,
+        "height": 427
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-museum-day-trip-in-2026-current-trends",
+      "title": "Trending Museum Day Trip in 2026: Current Trends",
+      "created_at": "2026-06-02T19:22:18.424558",
+      "image": {
+        "id": "685e05ae03c06c53b4d01dd547cb19cb8c9728550d775815f3f220e1564bcf3e",
+        "url": "https://picsum.photos/1199/432?random=876",
+        "alt": "Featured image for: Trending Museum Day Trip in 2026: Current Trends",
+        "width": 1199,
+        "height": 432
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-museum-day-trip",
+      "title": "Future of Trending Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.424588",
+      "image": {
+        "id": "d3996e5d4cab7df7e743665b5212fb58b9d9bffe4c243ad4958e9163a2fdbd94",
+        "url": "https://picsum.photos/878/509?random=634",
+        "alt": "Featured image for: Future of Trending Museum Day Trip",
+        "width": 878,
+        "height": 509
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-museum-day-trip",
+      "title": "Common Mistakes in Trending Museum Day Trip",
+      "created_at": "2026-06-02T19:22:18.424623",
+      "image": {
+        "id": "d3996e5d4cab7df7e743665b5212fb58b9d9bffe4c243ad4958e9163a2fdbd94",
+        "url": "https://picsum.photos/878/509?random=634",
+        "alt": "Featured image for: Common Mistakes in Trending Museum Day Trip",
+        "width": 878,
+        "height": 509
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-museum-day-trip-for-beginners",
+      "title": "Trending Museum Day Trip for Beginners",
+      "created_at": "2026-06-02T19:22:18.424656",
+      "image": {
+        "id": "ab4c6608d38829361307d4cfef3f968a10e67278d30a09c918f6367fe60d4823",
+        "url": "https://picsum.photos/1162/548?random=893",
+        "alt": "Featured image for: Trending Museum Day Trip for Beginners",
+        "width": 1162,
+        "height": 548
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-museum-day-trip-techniques",
+      "title": "Advanced Trending Museum Day Trip Techniques",
+      "created_at": "2026-06-02T19:22:18.424685",
+      "image": {
+        "id": "685e05ae03c06c53b4d01dd547cb19cb8c9728550d775815f3f220e1564bcf3e",
+        "url": "https://picsum.photos/1199/432?random=876",
+        "alt": "Featured image for: Advanced Trending Museum Day Trip Techniques",
+        "width": 1199,
+        "height": 432
+      }
+    }
+  ],
+  "tutorials-museum-day-trip": [
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-museum-day-trip-tutorials",
+      "title": "The Ultimate Guide to Museum Day Trip Tutorials",
+      "created_at": "2026-06-02T19:22:18.424929",
+      "image": {
+        "id": "d3996e5d4cab7df7e743665b5212fb58b9d9bffe4c243ad4958e9163a2fdbd94",
+        "url": "https://picsum.photos/878/509?random=634",
+        "alt": "Featured image for: The Ultimate Guide to Museum Day Trip Tutorials",
+        "width": 878,
+        "height": 509
+      }
+    },
+    {
+      "id": 92,
+      "slug": "museum-day-trip-tutorials-everything-you-need-to-know",
+      "title": "Museum Day Trip Tutorials: Everything You Need to Know",
+      "created_at": "2026-06-02T19:22:18.424956",
+      "image": {
+        "id": "685e05ae03c06c53b4d01dd547cb19cb8c9728550d775815f3f220e1564bcf3e",
+        "url": "https://picsum.photos/1199/432?random=876",
+        "alt": "Featured image for: Museum Day Trip Tutorials: Everything You Need to Know",
+        "width": 1199,
+        "height": 432
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-museum-day-trip-tutorials",
+      "title": "Understanding Museum Day Trip Tutorials",
+      "created_at": "2026-06-02T19:22:18.424985",
+      "image": {
+        "id": "2749743b7c34666c9077845c96fb6c4956ebd419f3beeb96bc723aaaa0d09596",
+        "url": "https://picsum.photos/1038/427?random=731",
+        "alt": "Featured image for: Understanding Museum Day Trip Tutorials",
+        "width": 1038,
+        "height": 427
+      }
+    },
+    {
+      "id": 94,
+      "slug": "museum-day-trip-tutorials-tips-and-best-practices",
+      "title": "Museum Day Trip Tutorials Tips and Best Practices",
+      "created_at": "2026-06-02T19:22:18.425012",
+      "image": {
+        "id": "c970128279a010f90466a4e4102aa5db92b7d1f24f9b37104a31ccae6364d301",
+        "url": "https://picsum.photos/839/427?random=636",
+        "alt": "Featured image for: Museum Day Trip Tutorials Tips and Best Practices",
+        "width": 839,
+        "height": 427
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-museum-day-trip-tutorials",
+      "title": "The History of Museum Day Trip Tutorials",
+      "created_at": "2026-06-02T19:22:18.425039",
+      "image": {
+        "id": "c970128279a010f90466a4e4102aa5db92b7d1f24f9b37104a31ccae6364d301",
+        "url": "https://picsum.photos/839/427?random=636",
+        "alt": "Featured image for: The History of Museum Day Trip Tutorials",
+        "width": 839,
+        "height": 427
+      }
+    },
+    {
+      "id": 96,
+      "slug": "museum-day-trip-tutorials-in-2026-current-trends",
+      "title": "Museum Day Trip Tutorials in 2026: Current Trends",
+      "created_at": "2026-06-02T19:22:18.425066",
+      "image": {
+        "id": "2749743b7c34666c9077845c96fb6c4956ebd419f3beeb96bc723aaaa0d09596",
+        "url": "https://picsum.photos/1038/427?random=731",
+        "alt": "Featured image for: Museum Day Trip Tutorials in 2026: Current Trends",
+        "width": 1038,
+        "height": 427
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-museum-day-trip-tutorials",
+      "title": "Future of Museum Day Trip Tutorials",
+      "created_at": "2026-06-02T19:22:18.425094",
+      "image": {
+        "id": "c970128279a010f90466a4e4102aa5db92b7d1f24f9b37104a31ccae6364d301",
+        "url": "https://picsum.photos/839/427?random=636",
+        "alt": "Featured image for: Future of Museum Day Trip Tutorials",
+        "width": 839,
+        "height": 427
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-museum-day-trip-tutorials",
+      "title": "Common Mistakes in Museum Day Trip Tutorials",
+      "created_at": "2026-06-02T19:22:18.425121",
+      "image": {
+        "id": "ab4c6608d38829361307d4cfef3f968a10e67278d30a09c918f6367fe60d4823",
+        "url": "https://picsum.photos/1162/548?random=893",
+        "alt": "Featured image for: Common Mistakes in Museum Day Trip Tutorials",
+        "width": 1162,
+        "height": 548
+      }
+    },
+    {
+      "id": 99,
+      "slug": "museum-day-trip-tutorials-for-beginners",
+      "title": "Museum Day Trip Tutorials for Beginners",
+      "created_at": "2026-06-02T19:22:18.425148",
+      "image": {
+        "id": "c970128279a010f90466a4e4102aa5db92b7d1f24f9b37104a31ccae6364d301",
+        "url": "https://picsum.photos/839/427?random=636",
+        "alt": "Featured image for: Museum Day Trip Tutorials for Beginners",
+        "width": 839,
+        "height": 427
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-museum-day-trip-tutorials-techniques",
+      "title": "Advanced Museum Day Trip Tutorials Techniques",
+      "created_at": "2026-06-02T19:22:18.425174",
+      "image": {
+        "id": "ab4c6608d38829361307d4cfef3f968a10e67278d30a09c918f6367fe60d4823",
+        "url": "https://picsum.photos/1162/548?random=893",
+        "alt": "Featured image for: Advanced Museum Day Trip Tutorials Techniques",
+        "width": 1162,
+        "height": 548
+      }
+    }
+  ]
+}
